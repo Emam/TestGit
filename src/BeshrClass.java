@@ -7,7 +7,11 @@ public class BeshrClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+<<<<<<< HEAD
 		//bshr 1
+=======
+		//bshr 2
+>>>>>>> brshr-bransh-2
 	}
 
 }
